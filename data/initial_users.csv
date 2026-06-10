@@ -1,0 +1,34 @@
+username,password,role,vessel_id,display_name
+admin,admin123,admin,,System Admin
+office,office123,office,,Office Dashboard
+challenge_pollux,SIRE@CP284,vessel,challenge_pollux,Challenge Pollux
+gh_holiday,SIRE@GH528,vessel,gh_holiday,GH Holiday
+gh_angelou,SIRE@GA657,vessel,gh_angelou,GH Angelou
+gh_christie,SIRE@GC669,vessel,gh_christie,GH Christie
+gh_umeko,SIRE@GU576,vessel,gh_umeko,GH Umeko
+loire,SIRE@L516,vessel,loire,Loire
+plata_carrier,SIRE@PC280,vessel,plata_carrier,Plata Carrier
+plata_lucky,SIRE@PL292,vessel,plata_lucky,Plata Lucky
+plata_singapore,SIRE@PS936,vessel,plata_singapore,Plata Singapore
+san_jacinto,SIRE@SJ373,vessel,san_jacinto,San Jacinto
+seaways_brazos,SIRE@SB731,vessel,seaways_brazos,Seaways Brazos
+seaways_castle_hill,SIRE@SCH636,vessel,seaways_castle_hill,Seaways Castle Hill
+seaways_colorado,SIRE@SC767,vessel,seaways_colorado,Seaways Colorado
+seaways_dwarka,SIRE@SD624,vessel,seaways_dwarka,Seaways Dwarka
+seaways_lily,SIRE@SL894,vessel,seaways_lily,Seaways Lily
+seaways_lonsdale,SIRE@SL612,vessel,seaways_lonsdale,Seaways Lonsdale
+seaways_melina,SIRE@SM944,vessel,seaways_melina,Seaways Melina
+seaways_mirage,SIRE@SM138,vessel,seaways_mirage,Seaways Mirage
+seaways_moment,SIRE@SM438,vessel,seaways_moment,Seaways Moment
+seaways_muse,SIRE@SM301,vessel,seaways_muse,Seaways Muse
+seaways_pecos,SIRE@SP743,vessel,seaways_pecos,Seaways Pecos
+seaways_polaris,SIRE@SP779,vessel,seaways_polaris,Seaways Polaris
+seaways_red,SIRE@SR973,vessel,seaways_red,Seaways Red
+seaways_rio_grande,SIRE@SRG438,vessel,seaways_rio_grande,Seaways Rio Grande
+seaways_sabine,SIRE@SS755,vessel,seaways_sabine,Seaways Sabine
+seaways_san_saba,SIRE@SSS426,vessel,seaways_san_saba,Seaways San Saba
+seaways_spirit,SIRE@SS506,vessel,seaways_spirit,Seaways Spirit
+seaways_warwick,SIRE@SW761,vessel,seaways_warwick,Seaways Warwick
+seaways_wave,SIRE@SW918,vessel,seaways_wave,Seaways Wave
+seaways_frio,SIRE@SF985,vessel,seaways_frio,Seaways Frio
+trinity,SIRE@T361,vessel,trinity,Trinity
