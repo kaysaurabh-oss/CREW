@@ -1,0 +1,345 @@
+question_id,sire_chapter,question,rank
+Q0001,2,Are structural survey reports and UTM records filed in the ESP documentation as per procedure?,Master
+Q0002,2,Are all coating repairs and hot work records updated in the coating technical file (Part IV)?,Master
+Q0003,2,Were coating reinstatement records after ballast tank repairs properly documented?,Master
+Q0004,2,"Are any explosion-proof light fittings damaged, cracked, or internally dirty?",Master
+Q0005,2,Have all defective or deteriorated light fittings been recorded in JiBe?,Master
+Q0006,2,Is Appendix 1 of SEEMP completed as per ship-specific energy efficiency requirements?,Master
+Q0007,2,Are six-monthly SEEMP review records properly filed and updated in the review log?,Master
+Q0008,2,Is the Statement of Compliance for Fuel Oil Consumption available onboard?,Master
+Q0009,2,"Is MF/HF equipment fully operational? If not, is valid flag dispensation available?",Master
+Q0010,2,"Is VDR fully operational? If not, is defect recorded and tracked with valid dispensation?",Master
+Q0011,2,"Is BWTS fully operational? If not, is CoC issued and corrective action tracked?",Master
+Q0012,2,"Is ODME operational? If not, is repair tracked within due date?",Master
+Q0013,2,"Is cargo tank level gauging system operational for all tanks? If not, is mitigation and repair plan documented?",Master
+Q0014,2,"Are any statutory or class certificates issued on short-term basis? If yes, are actions in place before expiry?",Master
+Q0015,2,Are all Conditions of Class (CoC) tracked with defined corrective action and due dates?,Master
+Q0016,2,"Is any navigation equipment (RPM indicator, compass, etc.) defective? If yes, is it recorded in JiBe?",Master
+Q0017,2,Are all defects entered in JiBe acknowledged by shore management?,Master
+Q0018,2,Are there any open defects pending shore acknowledgement?,Master
+Q0019,2,"Are class actionable notes (e.g. escape trunk location, repairs) recorded in defect system?",Master
+Q0020,2,Is load line marking clearly visible and properly painted?,Master
+Q0021,2,Are draft marks legible and free from corrosion?,Master
+Q0022,2,Are all HVPQ entries verified against actual vessel condition before submission?,Master
+Q0023,2,"Are certificate details in HVPQ (expiry, short-term status) correctly updated?",Master
+Q0024,2,Are incident records in HVPQ properly filled when marked “Yes”?,Master
+Q0025,2,Are PSC inspection records correctly updated in PIQ ?,Master
+Q0026,2,Are superintendent inspection intervals within 7 months for technical inspections?,Master
+Q0027,3,Do Master and deck officers have valid cargo system simulator training within the last 5 years?,Master
+Q0028,3,Do officers involved in cargo operations have valid full or refresher cargo handling simulator training within the last 5 years?,Master
+Q0029,3,Does Master responsible for chemical cargo have valid chemical cargo simulator training within the last 5 years?,Master
+Q0030,3,Are engine officers holding simulator certificates relevant to the propulsion type of the vessel?,Master
+Q0031,3,Does ship handling training procedure include requirement for training prior to joining vessels with different maneuvering characteristics?,Master
+Q0032,3,Does Master with less than 36 months in rank have evidence of ship handling training as per STCW requirements?,Master
+Q0033,3,Are dynamic navigational assessment reports aligned with OCIMF best practice guidelines and covering all required sections?,Master
+Q0034,3,Are static navigational assessment reports complete with full checklists as per OCIMF guidance?,Master
+Q0035,3,Are all navigational audit observations closed within due date or formally extended?,Master
+Q0036,3,Are cargo audit reports available onboard with full checklists and not limited to summary only?,Master
+Q0037,3,Are mooring and anchoring audit reports available onboard with full checklists and detailed assessments?,Master
+Q0038,3,"Do mooring and anchoring audit reports include assessment of crew competency, leadership, and training needs?",Master
+Q0039,3,Are superintendent and internal audit findings tracked with closure or extension evidence?,Master
+Q0040,3,Are all crew members actually present during drills as recorded in drill reports?,Master
+Q0041,3,Are work and rest hour records accurately reflecting all duties including unmooring and operational tasks?,Master
+Q0042,3,Are work and rest hour records verified monthly by responsible officers for accuracy?,Master
+Q0043,3,Are any discrepancies between recorded rest hours and actual operations identified and corrected?,Master
+Q0044,3,Are remarks recorded for work done outside normal working hours in rest hour records?,Master
+Q0045,3,Is bridge team work and rest hour recording aligned with actual bridge manning and operations?,Master
+Q0046,3,Is minimum manning onboard as per PIQ declaration maintained at all times?,Master
+Q0047,3,Are personnel using alcohol testing devices trained as per company procedures?,Master
+Q0048,5,Are all visitors provided safety and security familiarization at the time of joining?,Master
+Q0049,5,Are visitor familiarization checklists completed and signed by both vessel and visitor?,Master
+Q0050,5,Are overnight visitors fully familiarized as per company procedures before stay onboard?,Master
+Q0051,5,Are newly joined crew provided familiarization forms and copies posted in their cabins as required?,Master
+Q0052,7,Is gangway safety briefing including cargo hazards provided to all visitors during cargo operations?,Master
+Q0053,8,Are IG isolation valves secured with proper devices when not in use?,Master
+Q0054,5,Are safety and security familiarization procedures followed for all crew and visitors without delay?,Master
+Q0055,3,Are audit reports aligned with TMSA expectations including crew competency and operational effectiveness?,Master
+Q0056,3,Are internal audit formats aligned with OCIMF best practice guidance and company procedures?,Master
+Q0057,3,Is there evidence that operator verifies accuracy of work and rest hour records and audit documentation?,Master
+Q0058,3,Are training records available for all operationally critical equipment and procedures?,Master
+Q0059,4,Are bridge log books maintained in bound format with legible entries and not on loose sheets?,2nd Officer
+Q0060,4,Are sufficient spare blank bridge log books available onboard?,2nd Officer
+Q0061,4,Is procedure available defining minimum spare log books and supply arrangements?,2nd Officer
+Q0062,4,Are height of tide calculations correctly applied for safety depth and contour as per company procedure?,2nd Officer
+Q0063,4,Are records available to demonstrate watch levels were maintained as per operator procedures?,2nd Officer
+Q0064,4,Is minimum BCR defined in Master’s standing orders for normal navigational watch?,2nd Officer
+Q0065,4,Are Master’s night orders recorded with timestamp for issue and acknowledgement?,2nd Officer
+Q0066,4,Does Master-Pilot exchange checklist include pilot boarding instructions?,2nd Officer
+Q0067,4,Are ECDIS safety settings changes marked and recorded as per passage plan?,2nd Officer
+Q0068,4,Is company navigation procedure clear and consistent regarding use of AIS for collision avoidance?,2nd Officer
+Q0069,4,Is AIS usage in port aligned with ISGOTT requirements?,2nd Officer
+Q0070,4,Is forward echo sounder operational or covered by valid dispensation with mitigation measures in place?,2nd Officer
+Q0071,4,Are engine room team compositions recorded during port entry and departure?,2nd Officer
+Q0072,4,Are SARI batteries within valid expiry date?,2nd Officer
+Q0073,4,Are steering gear hard-over to hard-over timing tests recorded for each power unit and combined operation?,2nd Officer
+Q0074,4,Is transfer of con between Master and Pilot recorded with time in log?,2nd Officer
+Q0075,4,Are engine room watch level changes recorded for different navigation conditions?,2nd Officer
+Q0076,4,Are navigation lights free from defects such as water ingress and properly maintained?,2nd Officer
+Q0077,4,Are defects identified during pre-arrival checks properly recorded?,2nd Officer
+Q0078,4,Are manual position fixing intervals clearly defined in navigation procedures?,2nd Officer
+Q0079,4,Is latest IAMSAR Volume III (2025 edition) available onboard in hard copy?,2nd Officer
+Q0080,4,Was IAMSAR manual ordered in time before enforcement date?,2nd Officer
+Q0081,4,Is passage plan appraisal form correctly completed for charts and ENC information?,2nd Officer
+Q0082,4,Are daily orders recorded with time of entry?,2nd Officer
+Q0083,4,Is VHF handset and connector in proper condition without temporary unsafe repairs?,2nd Officer
+Q0084,4,Is stern navigation light compliant with COLREG visibility requirements?,2nd Officer
+Q0085,4,Are all bridge publications current and verified for latest editions?,2nd Officer
+Q0086,4,Are officers able to explain GMDSS distress communication procedures correctly?,2nd Officer
+Q0087,4,Is IAMSAR manual onboard updated to latest edition and requisition tracked?,2nd Officer
+Q0088,4,Is radar fully operational or defect recorded and under rectification with technician support?,2nd Officer
+Q0089,4,Is navigation in CATZOC U areas supported by consistent risk assessment and passage plan controls?,2nd Officer
+Q0090,4,Are position fixing intervals and control measures aligned with risk assessment for low accuracy areas?,2nd Officer
+Q0091,4,Are all navigation procedures correctly implemented without contradictions between plan and risk assessment?,2nd Officer
+Q0092,5,Are pilot ladders free from cracks or damage?,Chief Officer
+Q0093,5,Is fish room alarm functional and not seized?,Chief Officer
+Q0094,5,Is galley exhaust trunk clean and accessible for maintenance?,Chief Officer
+Q0095,5,Are all portable equipment and pumps properly secured and lashed in all areas including ballast pump room and engine room?,Chief Officer
+Q0096,5,Are all loose tools and testing equipment identified and secured during safety inspections?,Chief Officer
+Q0097,5,Are hydraulic oil tanks and transfer arrangements fitted with save-alls to prevent deck hazards?,Chief Officer
+Q0098,5,Are all slippery deck hazards identified and rectified during safety inspections?,Chief Officer
+Q0099,5,"Are emergency drills comprehensive covering all systems including CO2, water mist and backup procedures?",3rd Officer
+Q0100,5,Are air vents around accommodation clearly marked for closure during cargo operations?,Chief Officer
+Q0101,5,Are mooring winch drums and fairleads free from paint covering critical surfaces?,Chief Officer
+Q0102,5,Are fire extinguishing system operating instructions posted at required locations?,3rd Officer
+Q0103,5,Are grinder wheels and wire brushes marked for compatibility with machine speed?,2nd Engineer
+Q0104,5,Are all mooring winch components properly secured with pins and locking arrangements?,Chief Officer
+Q0105,5,Are emergency tools provided capable of operating critical systems such as cutting sealed wires?,Chief Officer
+Q0106,5,Are critical crane spare parts available onboard as per risk assessment?,Chief Officer
+Q0107,5,Are all reportable incidents recorded in HVPQ and PIQ as required?,Master
+Q0108,5,Are lifebuoy self-igniting lights operational?,3rd Officer
+Q0109,5,Are fire doors properly sealing without gaps?,3rd Officer
+Q0110,5,Are emergency steering fully operational?,2nd Officer
+Q0111,5,Are lifeboats lowered and maneuvered in water at required intervals?,3rd Officer
+Q0112,5,Are search lights operational with spare bulbs available onboard?,3rd Officer
+Q0113,5,Are officers familiar with SMS procedures including risk assessment and SIMOPS requirements?,Chief Officer
+Q0114,5,Are all stored materials such as pipes and equipment properly secured?,2nd Engineer
+Q0115,5,Are vapor manifold components in good condition without damage?,Chief Officer
+Q0116,5,Are liferaft arrangements ready for immediate use without improper securing?,3rd Officer
+Q0117,5,Are boiler relief valve arrangements properly secured with adequate clamps?,2nd Engineer
+Q0118,5,Are rotating machinery guarded to prevent exposure hazards?,2nd Engineer
+Q0119,5,Are tank manholes clearly identified as enclosed spaces?,Chief Officer
+Q0120,5,Are engine components such as scavenge covers properly secured?,2nd Engineer
+Q0121,5,Are officers able to explain fire and foam system isolation arrangements?,Chief Engineer
+Q0122,5,Are rescue boat engines tested and operational?,3rd Officer
+Q0123,5,Are manufacturer instructions available for access equipment such as gangways?,Chief Officer
+Q0124,5,Are escape routes clearly marked with proper signage?,3rd Officer
+Q0125,5,Are officers familiar with enclosed space entry procedures and permit requirements?,Chief Officer
+Q0126,5,"Are access ladders, radios and pilot ladders in safe working condition?",Chief Officer
+Q0127,5,Are gas detection tubes maintained as per minimum inventory requirements?,Chief Officer
+Q0128,5,Are accommodation ladder and gangway ropes accessible for inspection without obstruction?,Chief Officer
+Q0129,5,Are paint drums and cargo samples properly stored and secured?,Chief Officer
+Q0130,5,Are emergency drills include all required scenarios such as hazardous cargo reaction?,3rd Officer
+Q0131,5,Are machinery floor plates properly secured in place?,2nd Engineer
+Q0132,5,Are lifeboat engines tested regularly and maintained in operational condition?,3rd Engineer
+Q0133,5,Are all walkways fitted with anti-skid coating where required?,Chief Officer
+Q0134,5,Is helicopter equipment complete including insulated grab hooks?,Chief Officer
+Q0135,5,Are foam systems tested as per required periodic intervals?,Chief Officer
+Q0136,5,Are watertight doors in proper condition and operational?,Chief Officer
+Q0137,5,Are all enclosed spaces clearly marked with warning signs?,Chief Officer
+Q0138,5,Are enclosed space entry records maintained including gas checks and entry logs?,Chief Officer
+Q0139,5,Are fire fighting procedures posted in designated areas such as paint rooms?,3rd Officer
+Q0140,5,Are accommodation ladders properly rigged with safety ropes and supervised?,Chief Officer
+Q0141,5,Are machinery equipment such as incinerators maintained without deterioration?,2nd Engineer
+Q0142,5,Are BA compressors and cylinders used within safe pressure limits?,3rd Officer
+Q0143,5,Are fall prevention devices installed on vertical ladders where required?,Chief Officer
+Q0144,5,Are flexible hoses certified and tested as required?,Chief Officer
+Q0145,5,Are gas sampling hoses tested for electrical continuity as per procedure?,Chief Officer
+Q0146,5,Is LOTO equipment inventory maintained and verified periodically?,2nd Engineer
+Q0147,5,Are all crane safety devices such as limit switches functional?,Chief Engineer
+Q0148,5,Are hydraulic valves and systems operational and maintained with proper oil levels?,Chief Engineer
+Q0149,5,Are chain lockers marked as enclosed spaces?,Chief Officer
+Q0150,5,Are fire detection systems tested including panels and detectors?,ETO
+Q0151,5,Are pipeline supports and ducting free from corrosion and damage?,Chief Officer
+Q0152,5,Are emergency drills include calculation of drift and emergency response planning?,3rd Officer
+Q0153,5,Are ventilation systems such as CO2 room vents in good condition?,Chief Engineer
+Q0154,5,Are electrical work permits issued and followed during maintenance?,ETO
+Q0155,5,Are gangways properly marked and angle monitoring arrangements available?,Chief Officer
+Q0156,5,Are SWL markings clearly visible on all fittings?,Chief Officer
+Q0157,5,Are emergency rescue arrangements rigged and ready for use?,Chief Officer
+Q0158,5,Are emergency lighting supports free and operable without seized fittings?,ETO
+Q0159,5,Are gas welding hoses fitted with correct clamps as per standards?,2nd Engineer
+Q0160,5,Are workshop equipment and spares properly stowed and secured?,2nd Engineer
+Q0161,5,"Are abandon ship drill timings realistic and properly recorded, is self lowering tried out and recorded in drills?",3rd Officer
+Q0162,5,Are enclosed space permits issued before entry and correctly followed?,Chief Officer
+Q0163,5,Are correct safety signage used for ventilation systems?,3rd Officer
+Q0164,5,Are EEBDs available at designated locations and not misused?,3rd Officer
+Q0165,5,Are gas detectors calibrated and functioning correctly with proper accessories?,2nd Officer
+Q0166,5,Are acetylene and air cylinders properly capped and secured?,2nd Engineer
+Q0167,5,Are manifold drip trays properly isolated without leakage?,Chief Officer
+Q0168,5,"Are drill reports include analysis, lessons learned and improvement actions?",3rd Officer
+Q0169,5,Are emergency lighting and deck lighting free from water ingress?,ETO
+Q0170,5,Are correct fire extinguishers provided for electrical equipment?,3rd Officer
+Q0171,5,Are CO2 monitoring equipment available as per updated enclosed space requirements?,Chief Officer
+Q0172,5,Are officers familiar with Stop Work Authority procedures?,Chief Officer
+Q0173,5,Are safety markings and hazard protections such as razor wires properly applied?,Chief Officer
+Q0174,8,Are cargo samples stored within retention limits as per procedure?,Chief Officer
+Q0175,5,Are provision cranes fitted with functional safety lugs?,Chief Officer
+Q0176,5,Are fire doors not held open and functioning as designed?,Chief Officer
+Q0177,5,Are emergency procedures including drift estimation understood by officers?,3rd Officer
+Q0178,5,Are battery room ventilation maintained open and functional?,ETO
+Q0179,5,Are portable liferaft lights compliant with latest regulatory requirements?,3rd Officer
+Q0180,5,Are lifeboat lights visible without obstruction?,3rd Officer
+Q0181,5,Are lifebuoys in good condition with proper color visibility?,3rd Officer
+Q0182,5,Are hazardous items such as razor wire properly covered and marked?,Chief Officer
+Q0183,5,Are grounding drills conducted covering all required checklist items?,3rd Officer
+Q0184,5,Are officers familiar with drift estimation and emergency navigation procedures?,3rd Officer
+Q0185,5,Are battery ventilation openings maintained during operations?,ETO
+Q0186,8,Are crane hooks and lifting equipment fitted with operational safety features?,Chief Officer
+Q0187,8,Is ODME operational and if not is CoC issued and short-term IOPP certificate valid and tracked?,Master
+Q0188,8,Is ODME defect recorded in ORB Part II and included in open defect list with due date?,Master
+Q0189,8,Are ORB Part II entries for slop discharge through ODME accurate including discharge rate calculations?,Chief Officer
+Q0190,5,Is list of prohibited items for incineration posted in incinerator space?,Chief Engineer
+Q0191,8,Is cargo sea chest integrity test sampling point located at correct height above pumproom lower platform?,Chief Officer
+Q0192,8,Are cargo overboard discharge valves secured using approved LO/TO system?,Chief Officer
+Q0193,8,Are cargo overboard discharge valves sealed with numbered seals?,Chief Officer
+Q0194,7,Are breaking and securing of seals recorded in port and cargo logs?,Chief Officer
+Q0195,7,Are padlocks used for overboard valves controlled under formal locking system?,Chief Officer
+Q0196,8,Are eductor pumping arrangements for forepeak and void spaces operational and ready for use?,Chief Officer
+Q0197,5,Are suction valves for dewatering arrangements maintained in correct open position for emergency use?,Chief Officer
+Q0198,8,Is BWTS fully operational including TRO system?,Chief Officer
+Q0199,8,If BWTS is defective is it recorded in defect system with risk assessment completed?,Chief Officer
+Q0200,8,Is valid Flag dispensation available for BWTS defect with defined validity?,Master
+Q0201,8,Are spare parts for BWTS defects ordered and tracked for rectification?,Master
+Q0202,7,Are security seals fitted on all accommodation entrance doors?,Chief Officer
+Q0203,7,Is Vessel Hardening Plan ship-specific and tailored to vessel operations?,Chief Officer
+Q0204,7,Are all required security charts for the voyage available in latest edition onboard?,Chief Officer
+Q0205,7,Are security charts used in passage plan aligned with company procedures and latest updates?,Chief Officer
+Q0206,8,Are cargo pump suction pressure gauges showing consistent readings across pumps?,Chief Officer
+Q0207,8,"If discrepancies exist in gauges, are they recorded and investigated?",Chief Officer
+Q0208,5,"Are all ventilation fans (e.g. deckhouse, heater room) operational and tested?",Chief Officer
+Q0209,8,Is IG generator overboard valve maintained in auto mode during operations?,Chief Officer
+Q0210,8,Are cargo tank temperature readings stable and verified against manual measurements?,Chief Officer
+Q0211,8,Are cargo and ballast pump pressure gauges operational and defects recorded with spares tracked?,Chief Officer
+Q0212,8,Is OP familiar with cargo tank venting system including PV valves and secondary alarm settings?,Chief Officer
+Q0213,8,Are pressure transmitters for venting system calibrated and matching manual readings?,Chief Officer
+Q0214,8,"Is OP able to demonstrate correct ullaging, sampling, bonding and rest period procedures for flammable cargoes?",Chief Officer
+Q0215,8,Are cargo tank overfill sensors and alarms fully operational?,Chief Officer
+Q0216,8,Is visible indication for cargo tank overfill alarm functioning?,Chief Officer
+Q0217,8,Is interlock between cargo pumps and nitrogen generator active during cargo operations?,Chief Officer
+Q0218,8,"Is OP able to retrieve and use procedures for UTI equipment operation, calibration and testing?",Chief Officer
+Q0219,8,"Are manifold supports, drip trays, and deck structures free from corrosion and damage?",Chief Officer
+Q0220,8,Are COW pipeline supports and associated structures free from wastage?,Chief Officer
+Q0221,8,Are pipeline components such as reducers and elbows clearly marked for identification and testing?,Chief Officer
+Q0222,8,Does cargo discharge plan include all operations including bunkering impact on draft and stress?,Chief Officer
+Q0223,8,Is independent cross-check of cargo system carried out by a second officer prior to operations?,Chief Officer
+Q0224,8,Are gangway lifting arrangements free from trip hazards and included in safety checklist?,Chief Officer
+Q0225,8,Is deck seal in good condition without temporary repairs?,Chief Officer
+Q0226,8,Is deck seal condition included in safety rounds and defect reporting?,Chief Officer
+Q0227,8,Is VEC system fully operational or defect tracked with follow up?,Chief Officer
+Q0228,8,Are bonding cables on COW lines intact and free from paint covering connections?,Chief Officer
+Q0229,8,Are isolating valves bonding cables clean and effective for conductivity?,Chief Officer
+Q0230,8,Is radar level gauging system operational or alternative arrangements properly implemented?,Chief Officer
+Q0231,8,"Are cargo manifold pressure gauges suitable, accurate and in good condition?",Chief Officer
+Q0232,8,Are pre-arrival checks conducted as per procedure including verification of gauges?,Chief Officer
+Q0233,8,Are IGS pipeline flange connections free from corrosion?,Chief Officer
+Q0234,8,Are manifold pressure gauges monitored for abnormal residual pressure during operations?,Chief Officer
+Q0235,8,Are procedures available for operation and maintenance of IG boiler uptake valves?,Chief Officer
+Q0236,8,Are cargo tank gauging systems reliable and verified against portable instruments?,Chief Officer
+Q0237,8,Is external 95 percent cargo tank alarm audible and operational?,Chief Officer
+Q0238,8,Is OP trained on sampling and ullaging of static accumulator cargoes?,Chief Officer
+Q0239,8,Are PMS instructions available for IG system components including boiler uptake valves?,Chief Officer
+Q0240,8,Is OP trained to verify electrical isolation between ship and terminal?,Chief Officer
+Q0241,8,Are pressure testing records for manifold reducers available and properly marked?,Chief Officer
+Q0242,8,Is OP aware of hazards of oxygen enrichment in nitrogen generator spaces?,Chief Officer
+Q0243,8,Are IG valve position indicators readable and clearly marked open or closed?,Chief Officer
+Q0244,8,Is cargo high level alarm display compliant with visibility and marking requirements?,Chief Officer
+Q0245,8,Is actual hydraulic jack pressure at brake slip recorded in mooring winch brake test certificates?,Chief Officer
+Q0246,8,"Are torque values for mooring winch brakes realistic, calculated correctly and permanently marked?",Chief Officer
+Q0247,8,Does brake test record clearly indicate load at which brakes rendered?,Chief Officer
+Q0248,8,Are closed bow fairlead and foundation certificates for SPM mooring available onboard?,Chief Officer
+Q0249,8,Are crew involved in mooring operations familiar with Line Management Plan (LMP)?,Chief Officer
+Q0250,8,Are rendering points of mooring winch brakes aligned with their indicators?,Chief Officer
+Q0251,8,Are mooring winch brake settings verified during routine inspections?,Chief Officer
+Q0252,8,"Are vapour recovery arrangements complete with cruciforms, eyepads and chokes?",Chief Officer
+Q0253,8,Are torque settings for mooring winch brakes determined and marked as per MEG4?,Chief Officer
+Q0254,8,Is pressure gauge for brake testing calibrated prior to use?,Chief Officer
+Q0255,8,Is valid calibration certificate available for brake test pressure gauge?,Chief Officer
+Q0256,8,Is Mooring System Management Plan ship-specific and aligned with MEG4 requirements?,Chief Officer
+Q0257,8,Are mooring wire and tail characteristics compatible as per MEG guidelines?,Chief Officer
+Q0258,8,Does MSMP include permissible mooring configurations and diagrams?,Chief Officer
+Q0259,8,Is end-for-end maintenance of mooring wires defined and followed as per procedure?,Chief Officer
+Q0260,8,Is end-for-end maintenance carried out within required interval for mooring wires?,Chief Officer
+Q0261,8,Are responsibilities for mooring line splicing defined in LMP?,Chief Officer
+Q0262,8,Is crew aware of certification requirements for SPM mooring equipment?,Chief Officer
+Q0263,8,Are mooring winch foundation bolts free from corrosion and properly maintained?,Chief Officer
+Q0264,8,Are hydraulic pipes free from temporary repairs and properly maintained?,Chief Officer
+Q0265,8,Are hydraulic pipe defects clearly reported with correct description in defect system?,Chief Officer
+Q0266,8,Are mooring station areas provided with warning signs and barriers for lines under tension?,Chief Officer
+Q0267,8,Are safety precautions maintained at mooring stations after completion of operations?,Chief Officer
+Q0268,10,Are machinery space team composition records available and up to date?,Chief Engineer
+Q0269,10,Is the latest approved engine room watch composition displayed in ECR with outdated versions removed?,Chief Engineer
+Q0270,10,Are all temporary repairs on sea water pipelines recorded in machinery space safety inspection records?,Chief Engineer
+Q0271,10,Are temporary pipeline repairs properly assessed and monitored until permanent repair?,Chief Engineer
+Q0272,10,Is crew aware of required emergency generator running hours on load?,2nd Engineer
+Q0273,10,Is procedure available for taking emergency generator on load in manual mode?,2nd Engineer
+Q0274,10,Are emergency generator monthly tests carried out as per company requirements?,2nd Engineer
+Q0275,10,Is emergency generator selector switch maintained in automatic mode after testing?,2nd Engineer
+Q0276,10,Are emergency generator batteries adequately protected against explosion hazards?,2nd Engineer
+Q0277,10,Are main engine local control panel lamps fully operational?,2nd Engineer
+Q0278,10,Are alarm panels functioning correctly during self-test?,2nd Engineer
+Q0279,10,Are IMD alarm settings in line with company requirements?,ETO
+Q0280,10,Is discrepancy between IMD capability and company settings identified and addressed?,ETO
+Q0281,10,Are bunkering procedures including flammable gas testing requirements clearly defined?,Chief Engineer
+Q0282,10,"Are bunker tank atmosphere checks conducted for flammable and toxic gases before, during and after bunkering?",Chief Engineer
+Q0283,10,"Is MSDS provided onboard complete, legible and in standard format?",3rd Engineer
+Q0284,10,Are bunkering checklists covering both flammable and toxic gas monitoring?,Chief Engineer
+Q0285,10,Is fuel changeover procedure followed as per company requirement for ECA operations?,Chief Engineer
+Q0286,10,Are remote closing fuel valves fully operational and verified for actual valve closure?,Chief Engineer
+Q0287,10,Are crew verifying physical closure of valves during remote testing?,Chief Engineer
+Q0288,10,Are electrical welding equipment within safe voltage limits as per procedure?,2nd Engineer
+Q0289,10,Are welding machine cables in good condition without damage?,2nd Engineer
+Q0290,10,Are welding equipment defects identified during routine inspections?,2nd Engineer
+Q0291,10,Are crew familiar with dead man alarm operation and settings?,2nd Engineer
+Q0292,10,Are gas detection and monitoring requirements for bunkering clearly understood by crew?,Chief Engineer
+Q0293,10,Are daily engine room checklists completed for every watch?,2nd Engineer
+Q0294,10,Are protective caps properly fitted on all gas cylinders?,2nd Engineer
+Q0295,6,"Is the SOPEP/SMPEP approved copy available onboard, vessel-specific, and readily accessible to the bridge team?",Master
+Q0296,6,Can the Master demonstrate how shore-side pollution reporting would be initiated in case of an oil or chemical spill?,Master
+Q0297,6,"Is the vessel’s pollution response drill programme up to date, and are recent drills realistic rather than paper exercises?",Master
+Q0298,6,Are Master’s standing orders clear on immediate notification requirements for any accidental discharge or suspected pollution?,Master
+Q0299,6,Has the Master verified that all officers understand stop-work authority during pollution-risk operations?,Master
+Q0300,6,"Are deck scuppers effectively plugged during cargo, bunker, slop, tank-cleaning, and transfer operations?",Chief Officer
+Q0301,6,"Are manifold save-alls clean, drain plugs fitted, and free from previous cargo/oil residue?",Chief Officer
+Q0302,6,Are pollution prevention materials available near the manifold and ready for immediate use?,Chief Officer
+Q0303,6,Are cargo hose / arm connection areas checked for leakage before and after commencement of transfer?,Chief Officer
+Q0304,6,"Are deck drip trays, containment areas, and save-alls free from rainwater, cargo residue, and garbage?",Chief Officer
+Q0305,6,"Are overboard valves related to cargo, slop, ballast, and deck drainage secured or controlled as per company procedure?",Chief Officer
+Q0306,6,"Is there evidence that sea valves / overboard valves are sealed, locked, or monitored where required?",Chief Officer
+Q0307,6,"Are bunker station scuppers, containment trays, and spill kits prepared before bunkering operations?",Chief Officer
+Q0308,6,"Are bunker transfer checklists completed with actual checks, including tank sounding, overflow prevention, and communication test?",Chief Officer
+Q0309,6,Is the deck crew familiar with first actions in case of bunker overflow or manifold leakage?,Chief Officer
+Q0310,6,Are cargo tank high-level and overfill alarm tests recorded and within required periodicity?,Chief Officer
+Q0311,6,"Is the ODME operational, records available, and crew aware of when discharge through ODME is permitted?",Chief Officer
+Q0312,6,Are slop tank quantities monitored and compared against expected residues from cargo and tank-cleaning operations?,Chief Officer
+Q0313,6,"Are tank-cleaning residues, slops, and cargo washings managed in accordance with cargo category and discharge restrictions?",Chief Officer
+Q0314,6,"Is the Cargo Record Book / Oil Record Book Part II updated, accurate, and consistent with cargo operations?",Chief Officer
+Q0315,6,"Are portable spill response items complete, usable, and not expired or contaminated?",Chief Officer
+Q0316,6,Are deck drains and freeing ports arranged so that accidental cargo or bunker leakage cannot reach overboard unnoticed?,Chief Officer
+Q0317,6,Are chemical spill neutralising or absorbent materials suitable for the cargoes normally carried by the vessel?,Chief Officer
+Q0318,6,"Are SOPEP coastal state contact lists, port contact details, and company emergency numbers updated before arrival?",2nd Officer
+Q0319,6,Are pollution reporting formats available on the bridge and understood by the watchkeeping officers?,2nd Officer
+Q0320,6,Is the Garbage Management Plan available and are bridge/crew aware of special area restrictions?,2nd Officer
+Q0321,6,Are garbage placards posted at required locations and in good readable condition?,2nd Officer
+Q0322,6,Is the Garbage Record Book updated correctly and supported by landing receipts where applicable?,2nd Officer
+Q0323,6,Are navigational warnings / local port environmental restrictions reviewed before arrival or anchoring?,2nd Officer
+Q0324,6,"Are SOPEP lockers clearly marked, accessible, and not blocked by stores or equipment?",3rd Officer
+Q0325,6,Are spill response inventories checked and matching the required list posted in the locker?,3rd Officer
+Q0326,6,"Are emergency deck drain plugs, absorbent pads, booms, and disposal bags available for immediate use?",3rd Officer
+Q0327,6,Can junior officers demonstrate where spill equipment is located and how it would be deployed?,3rd Officer
+Q0328,6,"Is the Oil Record Book Part I updated accurately and consistent with sludge, bilge, incinerator, and shore landing records?",Chief Engineer
+Q0329,6,"Is the Oily Water Separator operational, alarm tested, and maintained without bypass arrangements?",Chief Engineer
+Q0330,6,Are 15-ppm alarm tests and OWS stopping arrangements tested and recorded as required?,Chief Engineer
+Q0331,6,"Are bilge overboard discharge valves locked, sealed, or controlled to prevent unauthorised discharge?",Chief Engineer
+Q0332,6,Are all flexible hoses or portable pumps in engine room controlled to prevent accidental overboard discharge?,Chief Engineer
+Q0333,6,"Are sludge tank levels monitored and records consistent with sludge generation, incineration, and disposal?",Chief Engineer
+Q0334,6,Are bunker overflow prevention arrangements tested and understood by duty engineers?,Chief Engineer
+Q0335,6,"Is there any evidence of illegal or temporary piping, blanked lines, or unauthorised modifications around bilge/OWS systems?",Chief Engineer
+Q0336,6,"Are engine room bilges clean, dry as practicable, and free from excessive oily accumulation?",2nd Engineer
+Q0337,6,"Are save-alls under pumps, purifiers, filters, and fuel systems clean and drained to proper collection tanks?",2nd Engineer
+Q0338,6,"Are sludge transfer lines, valves, and pumps clearly marked and free from leakage?",2nd Engineer
+Q0339,6,Are incinerator operations recorded correctly and matching sludge/garbage disposal entries?,2nd Engineer
+Q0340,6,Are purifier sludge discharge arrangements maintained without leakage or overflow risk?,2nd Engineer
+Q0341,6,"Are sewage treatment plant records, sampling arrangements, and discharge controls maintained as required?",3rd Engineer
+Q0342,6,Are sewage overboard valves controlled and crew aware of discharge restrictions near shore/port?,3rd Engineer
+Q0343,6,"Are high-level alarms related to bunker, sludge, bilge, and overflow prevention tested and records available?",ETO
+Q0344,6,"Are ODME / OWS alarm sensors, repeaters, and control panel indications in working order?",ETO
